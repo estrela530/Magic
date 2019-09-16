@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/black.png</File>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/button1.png</File>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/player.png</File>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/backColor.png</File>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/block.png</File>
+    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/3417_3.png</File>
+  </SourceFiles>
+</SourceFileCollection>
